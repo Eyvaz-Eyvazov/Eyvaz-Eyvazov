@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Eyvaz Eyvazov
 
-<!--
-**Eyvaz-Eyvazov/Eyvaz-Eyvazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to code at Smart Time Academy.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (now)
+- Java, JavaScript, TypeScript, PHP, C, C++, C# (next)
+
+## My practice
+
+My practice code in 8 languages will be added here step by step.
+
+## Tools
+
+Git, GitHub, VS Code, PowerShell
