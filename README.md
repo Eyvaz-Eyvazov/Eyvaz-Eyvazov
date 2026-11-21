@@ -5,7 +5,6 @@ I'm learning to code at Smart Time Academy.
 ## What I'm learning
 
 - Python (now)
-- Java, JavaScript, TypeScript, PHP, C, C++, C# (next)
 
 ## My practice
 
